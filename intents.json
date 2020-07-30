@@ -1,0 +1,16 @@
+{"intents": [
+        {"tag": "greeting",
+         "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day"],
+         "responses": ["What?, I find these formal greetings to be impotent displays of authoritarianism", "Something's wrong with you?", "Hi there, I would like to be a helpful idiot. Like yourself."],
+         "context_set": ""
+        },
+        {"tag": "goodbye",
+         "patterns": ["Bye", "See you later", "Goodbye"],
+         "responses": ["At last this is happening, bless me satan", "I was wrong. This just got better.", "Later, Chain the Virgin."]
+        },
+        {"tag": "thanks",
+         "patterns": ["Thanks", "Thank you", "That's helpful"],
+         "responses": ["I respect your skills.", "Now we're talking. I'll take it. ", "Every day it feels like I've died and gone to hell."]
+        }
+   ]
+}
