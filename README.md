@@ -14,3 +14,18 @@ Dataset is being made from [siliconvalleyism.com](http://siliconvalleyism.com/si
 - Basic gilfoyle type response
 - Limited responses taken directly from the show
 - Scripted responseive behaviour with non-contextual responses
+
+
+## Demo
+```python
+#AI Gilfoyle v0.1.0
+
+User : Hiee
+AI Glifoyle : Now we're talking. I'll take it.
+User : what are you doing?
+AI Glifoyle : Something's wrong with you?
+User : Nothing man, what about you?
+AI Glifoyle : Every day it feels like I've died and gone to hell.
+User : Byee
+AI Glifoyle : Later, Chain the Virgin.
+```
