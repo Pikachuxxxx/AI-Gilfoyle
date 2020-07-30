@@ -1,6 +1,8 @@
 # AI-Gilfoyle
 I intend to make him a reality one day until then, YOU CAN CHORTLE MY BALLS!!!!
 
+![](https://github.com/Pikachuxxxx/AI-Gilfoyle/blob/master/gilfoyle%20gif%20true.gif)
+
 Still a lot of improvements to be made in the coming versions, with the detailed explanation of Behind the Scenes.
 
 You can find the [Dataset](https://github.com/Pikachuxxxx/AI-Gilfoyle/blob/master/intents.json) here feel free to expand it.
